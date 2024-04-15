@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = maudb.benichou@gmail.com
+	name = Maud BENICHOU DUHIL de BENAZE
